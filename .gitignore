@@ -1,0 +1,28 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Python dist
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Coverage
+.coverage
+
+db.sqlite3

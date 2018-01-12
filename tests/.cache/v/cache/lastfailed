@@ -1,0 +1,4 @@
+{
+  "SocialNetworkUserTest.py::test_user_eq_operation": true,
+  "domain_test.py::test_user_eq_operation": true
+}

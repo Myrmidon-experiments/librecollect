@@ -1,0 +1,17 @@
+#+TITLE: librecollect to-do list
+
+* Tasks
+** TODO Start GitHub Repo
+** TODO Set automated test and linters in CI file (.travis.yml)
+   - [ ] Testing with pytest
+   - [ ] Pylint and its configuration
+   - [ ] flake8 and pyflakes 
+** IN-PROGRESS Finish README.md
+   - See good README examples
+** DONE Choose test suite
+   - pytest
+   CLOSED: [2018-01-04 jue 18:16]
+** DONE Finish directory structure
+   CLOSED: [2018-01-12 vie 16:50]
+* Ideas
+** Develop a web page to publish librecollect as a service

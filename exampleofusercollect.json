@@ -1,0 +1,44 @@
+{
+    "event": "event_name",
+    "is_on": true,
+    "periodicity": "in seconds, e.g 300",
+    "picking": 
+    {
+	"rule0":
+	{
+	    "name": "Some rule name",
+	    "social_network": "twitter",
+	    "signature": "signature",
+	    "real_parameters": "parameters",
+	    "users_collected": [
+		{
+		    "username": "some_user_name",
+		    "data":
+		    {
+			"somedata_0": "asdasd",
+			"somedata_1": 23432
+		    }
+		},
+		{
+		    "username": "some_user_name",
+		    "data":
+		    {
+			"somedata_0": "asdasd",
+			"somedata_1": 23432
+		    }
+		}
+	    ]
+	},
+	"rule1":
+	{
+	    "name": "Some rule name",
+	    "signature": "signature",
+	    "real_parameters": "parameters",
+	    "users_collected": [
+		{},
+		{}
+	    ]
+	}
+    }
+}
+
