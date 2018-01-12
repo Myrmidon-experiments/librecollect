@@ -1,13 +1,18 @@
 #+TITLE: librecollect to-do list
 
 * Tasks
-** TODO Start GitHub Repo
 ** TODO Set automated test and linters in CI file (.travis.yml)
-   - [ ] Testing with pytest
+   - [X] Testing with pytest
+   - [ ] Code Coverage with pytest-cov
+   - [ ] Set config for codecov bca92d78-bf90-4c81-b1a1-d26cd519f981
+   - [ ] Set config for codeclimate
    - [ ] Pylint and its configuration
    - [ ] flake8 and pyflakes 
+** TODO 
 ** IN-PROGRESS Finish README.md
    - See good README examples
+** DONE Start GitHub Repo
+   CLOSED: [2018-01-12 vie 18:31]
 ** DONE Choose test suite
    - pytest
    CLOSED: [2018-01-04 jue 18:16]
