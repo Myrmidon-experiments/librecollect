@@ -1,10 +1,16 @@
-# librecollect
+# librecollect [![Build Status](https://travis-ci.org/cactail/librecollect.svg?branch=master)](https://travis-ci.org/cactail/librecollect) [![codecov](https://codecov.io/gh/cactail/librecollect/branch/master/graph/badge.svg)](https://codecov.io/gh/cactail/librecollect) [![Maintainability](https://api.codeclimate.com/v1/badges/aac5fa00f31bc6d72446/maintainability)](https://codeclimate.com/github/cactail/librecollect/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/aac5fa00f31bc6d72446/test_coverage)](https://codeclimate.com/github/cactail/librecollect/test_coverage)
 
 A simple data collector from social media using rules that you can defined.
 
 ## Features
 
 ## Install
+
+You can install it from PyPI
+* `pip install librecollect`
+Or clone (with SSH) the repo with the following command
+* `git clone git@github.com:cactail/librecollect.git`
+  * `python setup.py install`
 
 ## Docs
 
@@ -20,7 +26,7 @@ Please read the [CONTRIBUTING.md](https://)
 
 ## License
 
-This project is licensed under the GNU GPLv3 - see the [LICENSE.md](https://) file for details
+This project is licensed under the GNU GPLv3 - see the [LICENSE.md](https://github.com/cactail/librecollect/blob/master/LICENSE.md) file for details
 
 
 
