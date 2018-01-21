@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+[packages]
+
+
+[dev-packages]
+
+codecov = "*"
+coverage = "*"
+flake8 = "*"
+pyflakes = "*"
+pylint = "*"
+pytest = "*"
+pytest-cov = "*"
+
+

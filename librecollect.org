@@ -5,14 +5,17 @@
 ** TODO Finish EventHandler class
 ** TODO Finish CollectorRule base class
 * General Tasks
+** TODO Write CONTRIBUTING.md file
+   - Usage of pipenv
+   - TDD approach
 ** IN-PROGRESS Set automated test and linters in CI file (.travis.yml)
    - [X] Testing with pytest
    - [X] Code Coverage with pytest-cov
    - [X] Set config for codecov
    - [X] flake8 and pyflakes 
-   - [ ] Set config for codeclimate
+   - [X] Set config for codeclimate
+   - [X] Add badges (code coverage and build status) to README
    - [ ] Pylint and its configuration
-   - [ ] Add badges (code coverage and build status) to README
 ** IN-PROGRESS Finish README.md
    - See good README examples
 ** DONE Start GitHub Repo
