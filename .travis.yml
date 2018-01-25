@@ -4,6 +4,7 @@ python:
 
 env:
   CC_TEST_REPORTER_ID: b7289b6cd0260b1d05ece1ddc6e02d3d1d680819ece3ff38718a701192c66089
+  PYTHONPATH: $HOME/librecollect/
 
 before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
