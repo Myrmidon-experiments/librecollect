@@ -1,8 +1,7 @@
 # librecollect 
-> A simple data collector from social media using rules that you can defined.
+> A simple data collector from social media
 
 [![Build Status](https://travis-ci.org/cactail/librecollect.svg?branch=master)](https://travis-ci.org/cactail/librecollect)
-[![Build Status](https://travis-ci.org/cactail/librecollect.svg?branch=master)][https://travis-ci.org/cactail/librecollect]
 [![codecov](https://codecov.io/gh/cactail/librecollect/branch/master/graph/badge.svg)](https://codecov.io/gh/cactail/librecollect)
 [![Maintainability](https://api.codeclimate.com/v1/badges/aac5fa00f31bc6d72446/maintainability)](https://codeclimate.com/github/cactail/librecollect/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/aac5fa00f31bc6d72446/test_coverage)](https://codeclimate.com/github/cactail/librecollect/test_coverage)
@@ -10,8 +9,6 @@
 ## Features
 
 ## Install
-
-Read the [docs.](https://)
 
 You can install it from PyPI
 
@@ -29,6 +26,8 @@ python setup.py -u install
 ```
 
 ## Usage
+
+Read the [docs.](https://)
 
 ## Contributing
 
