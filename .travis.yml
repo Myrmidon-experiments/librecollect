@@ -4,7 +4,6 @@ python:
 
 env:
   CC_TEST_REPORTER_ID: b7289b6cd0260b1d05ece1ddc6e02d3d1d680819ece3ff38718a701192c66089
-  PROJECT_HOME: $HOME/librecollect
 
 before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
@@ -16,10 +15,9 @@ install:
   - pipenv install --dev
 
 script:
-  - py.test --cov=librecollect
+  - python -m pytest --cov=librecollect
   - pyflakes librecollect/
   - flake8 librecollect/
-  - echo $PROJECT_HOME
 
 after_success:
   - codecov
